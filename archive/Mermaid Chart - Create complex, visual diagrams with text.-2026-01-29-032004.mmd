@@ -1,0 +1,87 @@
+---
+config:
+  layout: elk
+---
+flowchart LR
+ subgraph subGraph0["Phase 1: Ingestion & Triage"]
+        Raw[("Raw CDEC Scans (2.7M Pages)")]
+        Metadata[("Existing Metadata (Log #, Dates)")]
+        CoordConv["Coordinate Converter (Wartime MGRS -> WGS84)"]
+        Triage["Human Triage Interface (Label Studio)"]
+        GeoContainer[("Geospatial Container")]
+        Router{"Intelligent Router"}
+  end
+ subgraph subGraph1["Phase 2: Intelligent Processing"]
+        OCR["High-Speed OCR (Tesseract)"]
+        VLM["Fine-Tuned VLM (TrOCR/Donut)"]
+        Table["Table Transformer"]
+        GeoPipeline["Geospatial Pipeline (Georeferencing)"]
+        HITL["Human-in-the-Loop Verification (Label Studio)"]
+        Index[("Search Index")]
+        DB[("PostGIS Database")]
+  end
+ subgraph subGraph2["Phase 3: Geospatial Stack"]
+        L1[("Layer 1: Base Maps (L7014 1:50k)")]
+        L2[("Layer 2: Blue Force (US DSJ Trajectories)")]
+        L3[("Layer 3: Red Force (Extracted CDEC Data)")]
+        SpatialQuery{"Spatial Join Query"}
+        IIIF["IIIF Image Server"]
+        Allmaps["Allmaps Viewer (Interactive Overlay)"]
+  end
+ subgraph subGraph3["Phase 4: Output &amp; Deliverables"]
+        GenTool["Report Generator (Python/docxtpl)"]
+        Template[("Case Report Template (.docx)")]
+        FinalReport["Final Case Report (.docx)"]
+        InteractiveMap["Interactive Web Map (Browser)"]
+  end
+    Raw --> Triage
+    Metadata --> CoordConv
+    CoordConv --> GeoContainer
+    Triage --> Router
+    Router -- Type A: Admin --> OCR
+    Router -- Type B: Handwriting --> VLM
+    Router -- Type C: Structured --> Table
+    Router -- Type D: Maps --> GeoPipeline
+    VLM --> HITL
+    OCR --> Index
+    Table --> DB
+    HITL --> DB
+    Index --> DB
+    GeoPipeline --> L1
+    DB --> L3 & GenTool
+    L1 --> SpatialQuery & IIIF
+    L2 --> SpatialQuery
+    L3 --> SpatialQuery
+    IIIF --> Allmaps
+    SpatialQuery --> GenTool
+    Template --> GenTool
+    GenTool --> FinalReport
+    Allmaps --> InteractiveMap
+    GeoContainer --> DB
+
+     Raw:::storage
+     Metadata:::storage
+     CoordConv:::geo
+     Triage:::human
+     GeoContainer:::geo
+     OCR:::ai
+     VLM:::ai
+     Table:::ai
+     GeoPipeline:::geo
+     HITL:::human
+     Index:::storage
+     DB:::storage
+     L1:::geo
+     L2:::geo
+     L3:::geo
+     IIIF:::geo
+     Allmaps:::geo
+     GenTool:::ai
+     Template:::storage
+     FinalReport:::output
+     InteractiveMap:::output
+    classDef human fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef ai fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    classDef geo fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    classDef storage fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    classDef output fill:#fffde7,stroke:#fbc02d,stroke-width:2px

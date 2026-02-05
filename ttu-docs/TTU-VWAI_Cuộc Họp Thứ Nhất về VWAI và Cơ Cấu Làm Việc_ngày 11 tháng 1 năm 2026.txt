@@ -1,0 +1,587 @@
+VIETNAM WARTIME ACCOUNTING INITIATIVE
+(VWAI)
+DỨ ÁN KIỂM KÊ THƯƠNG VONG VÀ MẤT TÍCH TRONG CHIẾN 
+TRANH VIỆT NAM
+
+Ý Nghĩa Và Mục Đích Dự Án
+Giới Thiệu Cơ Cấu Tổ Chức & Quy Trình Công Tác Nghiên Cứu của TTU–VWAI
+Giới Thiệu Thành Viên Trong Dự Án
+Tiếp Cận Và Truy Cập CDEC
+Về Tọa Độ
+Hồ Sơ Cho Quý 1
+Viết Báo Cáo
+Thỏa Thuận Về Bảo Mật, Quyền Sở Hữu, Và Phạm Vi Sử Dụng - VWAI 
+
+
+
+
+CHƯƠNG TRÌNH
+
+CDEC LÀ GÌ?
+Kho tư liệu sơ cấp vô song (Unmatched Primary Source Corpus)
+954 cuộn microfilm đã giải mật (khoảng 170.000 hồ sơ liên quan; ~2,7 triệu trang) bao gồm nhật ký, thư từ, mệnh lệnh, danh sách quân số, báo cáo và hình ảnh.
+Có kèm tọa độ lưới (grid coordinates) chỉ vị trí nơi tài liệu bị thu giữ.
+Chứa tư liệu cá nhân, chính trị, hậu cần và cấp đơn vị, thiết yếu cho việc tái dựng đời sống và hành trình di chuyển.
+Tiếp cận trực tiếp hồ sơ nội bộ của Bắc Việt và Mặt trận Dân tộc Giải phóng (NLF)
+Danh sách nhân sự, dữ liệu đảng viên/tổ chức quần chúng, phân công quân vụ, thăng cấp, thương vong và đào ngũ.
+Kế hoạch tác chiến và báo cáo hậu cần làm rõ vị trí đơn vị, cơ cấu chỉ huy và các tuyến xâm nhập.
+Đã số hóa & có thể tìm kiếm — nhưng cần chuyên môn để diễn giải
+Chỉ mục 8-bit nguyên bản của CDEC được phần mềm của VNCA “bẻ khóa” cho phép tìm kiếm từ khóa hiện đại.
+Tuy nhiên, nhà nghiên cứu phải xử lý các hạn chế: thuật ngữ tìm kiếm thời chiến, mục nhập bị mã hóa sai và chất lượng bản dịch không đồng đều.
+CDEC is one of the most important primary source collections for understanding the Vietnam War, containing more than 900+ reels of captured North Vietnamese and NLF documents—diaries, orders, rosters, reports, and photographs—many of which include grid coordinates and detailed unit information. These materials provide unmatched access to internal military records that reveal personnel data, operational plans, and battlefield movements essential for reconstructing wartime events and accounting for the missing. Although now digitized and searchable, the collection requires expert interpretation due to military-era coding, misindexed entries, and uneven translations.
+
+KHAI THÁC CDEC
+Sử dụng Tài liệu Bị Thu giữ làm Trụ cột Nghiên cứu cho Công tác Xác định Danh tính Liệt sĩ của VWAI
+Tái dựng tiểu sử cá nhân
+Manh mối địa lý để xác định vị trí hài cốt: Tọa độ lưới (grid coordinates) gắn với nhiều hồ sơ CDEC cung cấp vị trí chính xác hoặc gần chính xác của hoạt động đơn vị, giao tranh và địa điểm thu giữ tài liệu—giúp VWAI đối chiếu, khoanh vùng nơi binh sĩ có khả năng hy sinh hoặc được chôn cất tạm thời, đồng thời xác định các khu vực ưu tiên cho công tác tìm kiếm, quy tập và hồi hương hài cốt.
+Nhật ký và thư từ lưu giữ tiếng nói cá nhân: thể hiện tư tưởng, cảm xúc, khó khăn thường nhật, mối liên hệ gia đình và các chi tiết đời sống riêng tư.
+Cho phép VWAI nhận diện cá nhân cụ thể, xác nhận đơn vị, làm rõ hoàn cảnh MIA/KIA, và kết nối với thân nhân gia đình.
+Phục dựng lịch sử đơn vị và quy luật hành quân
+Chuỗi tài liệu được microfilm theo trình tự cho phép tái dựng bối cảnh thu giữ và diễn tiến chiến trường theo thời gian.
+Thiết yếu để lập bản đồ các tuyến xâm nhập, giao tranh, tổn thất và vị trí có thể chôn cất hoặc hy sinh.
+Nền tảng cho đối chiếu đa nguồn Dữ liệu CDEC có thể được đối chiếu với:
+Tư liệu lưu trữ thời chiến của Việt Nam
+Hồ sơ gia đình thời hậu chiến
+Báo cáo tác chiến và hồ sơ KIA của Hoa Kỳ (Daily Staff Journals và After Action Reports)
+Lịch sử truyền khẩu từ cựu chiến binh và thân nhân
+→ Tạo nên cơ chế kiểm chứng đa nguồn nhằm củng cố việc nhận dạng, xác minh và thúc đẩy công tác tưởng niệm – hòa giải.
+
+
+
+CDEC provides an unparalleled window into the internal records, movements, and lived experiences of North Vietnamese and NLF units, enabling VWAI to reconstruct individual biographies, identify unit locations, and trace battlefield events with precision. Grid coordinates, diaries, and personnel lists allow researchers to pinpoint where soldiers likely fell or were buried, while the sequential filming of documents helps rebuild unit timelines and movement patterns. When cross-referenced with Vietnamese wartime archives, U.S. records ( (AAR)), and family testimonies, CDEC becomes the backbone of a multi-source verification process that strengthens identification, supports reconciliation, and advances the humanitarian mission of accounting for Vietnam’s war dead.
+
+DÙNG CDEC CHO VWAI
+Phục hồi danh tính và tưởng niệm liệt sĩ Việt NamCung cấp dữ liệu thiết yếu để xác định danh tính, truy tìm thông tin và tưởng niệm những quân nhân Việt Nam vẫn còn mất tích hoặc chưa được gọi tên.
+Giá trị nhân đạo và hòa giảiGóp phần trả lại tên tuổi, lịch sử và phẩm giá cho những cá nhân Việt Nam đã bị lịch sử bỏ quên trong nhiều thập niên.
+Hoàn trả kỷ vật chiến tranh cho gia đìnhCho phép hồi hương các nhật ký, thư từ, hình ảnh và hồ sơ bị thu giữ trong CDEC—giúp các gia đình tìm lại những mảnh ký ức bị thất lạc của người thân và bắt đầu quá trình hàn gắn có ý nghĩa.
+Tăng cường hợp tác Hoa Kỳ – Việt NamHỗ trợ sứ mệnh của VWAI trong việc xây dựng cầu nối giữa hai quốc gia thông qua công tác di sản chung và tưởng niệm bao trùm, nhân văn.
+Khả năng mở rộng cho công tác truy tìm có hệ thốngQuy mô, mức độ chi tiết và cấu trúc của kho tư liệu CDEC cho phép VWAI xây dựng các quy trình chuẩn hóa, có thể lặp lại để phân tích nhật ký, danh sách quân nhân và tài liệu tác chiến—từ đó chuyển hóa tình báo thời chiến thành tri thức nhân đạo phục vụ truy tìm, xác minh và hòa giải.
+CDEC serves as a humanitarian foundation for VWAI by providing the detailed records needed to identify, account for, and honor Vietnamese soldiers who remain missing or unnamed. These captured documents—diaries, rosters, letters, and photographs—restore personal histories and enable the return of wartime artifacts to families, offering long-overdue closure and healing. CDEC also strengthens U.S.–Vietnam cooperation by creating shared evidence for reconciliation and allowing both sides to engage constructively in legacy work. Most importantly, the scale and structure of the CDEC corpus allow VWAI to build systematic, repeatable workflows for analyzing personnel data and operational records, transforming wartime intelligence into a modern, humanitarian effort to recover and recognize Vietnam’s war dead.
+
+QUY TRÌNH KHAI THÁC CDEC TRONG VIỆC XÁC ĐỊNH VỊ TRÍ & NHẬN DẠNG HÀI CỐT LIỆT SĨ VIỆT NAM
+HỒ SƠ CDEC (Nhật ký, danh sách quân số, sổ tay, báo cáo)
+→ TỌA ĐỘ LƯỚI (GRID COORDINATES) (Địa điểm bị thu giữ tài liệu – định hướng khu vực tìm kiếm)
+→ DANH SÁCH ĐƠN VỊ & NHÂN SỰ (Tên, vai trò, sự hiện diện – xác nhận mối liên hệ chiến trường)
+↓
+ĐỐI CHIẾU HIỆN VẬT (ARTIFACT MATCHING) (Tên, số hiệu, ký khắc – liên kết với binh sĩ được ghi trong CDEC)
+→ KHAI QUẬT THỰC ĐỊA (FIELD EXCAVATIONS) (Đào thám sát có mục tiêu để xác nhận khu chôn cất & hài cốt)
+↓
+XÁC ĐỊNH DANH TÍNH CHÍNH XÁC (POSITIVE IDENTIFICATION) (CDEC + hiện vật + ADN / hài cốt + hồ sơ gia đình)
+This workflow shows how CDEC documents serve as the backbone of VWAI’s identification process. Captured diaries, rosters, and notebooks provide grid coordinates and unit information that pinpoint where soldiers operated and where they likely fell. To strengthen this analytical foundation, we have mapped the entire CDEC collection by extracting geolocation metadata from each document record and plotting these data in ArcGIS. When combined with document-capture information and MIA case files, this mapping capability enables powerful temporal and spatial proximity searches, allowing investigators to see where units moved, where documents were seized, and where losses likely occurred.
+These integrated spatial tools guide targeted field excavations and help match recovered artifacts—such as engraved canteens or personal items—with individuals listed in CDEC records. By combining CDEC evidence with excavation results, forensic analysis, and family records, VWAI establishes a multi-source verification system that leads to accurate, humane, and historically grounded identifications of Vietnamese war dead.
+
+
+CÁCH CDEC HỖ TRỢ XÁC ĐỊNH VỊ TRÍ VÀ XÁC MINH DANH TÍNH NGƯỜI TỬ TRẬN TRONG CHIẾN TRANH
+
+Những Phát hiện từ Hồ sơ Cầu Nhi ngày 26 tháng 5 năm 1972
+Xác nhận sự hiện diện của đơn vị và tổn thất nhân lực
+Tài liệu CDEC số F034609112435 xác nhận sự có mặt của C9/D6/E88/F308 (Đại đội 9, Tiểu đoàn 6, Trung đoàn 88, Sư đoàn 308) tại khu vực Cầu Nhi và phù hợp với các tư liệu phía Việt Nam ghi nhận thương vong nặng trong trận đánh này.
+Xác định danh tính các cá nhân gắn liền với chiến trường
+Các ghi chép trong sổ tay của những chiến sĩ như Nguyễn Viết Đàn và Hoàng Văn Rơi trùng khớp với hồ sơ tử trận chính thức về cùng thời điểm và địa điểm.
+Cung cấp tọa độ lưới cần thiết để xác định vị trí chôn cất
+Điểm thu giữ tài liệu tại tọa độ 48QYD465370 cung cấp mốc địa không gian chính xác, giúp định hướng các nhóm tìm kiếm tới những khu vực có khả năng là nơi chôn cất ban đầu.
+Đối chiếu kết quả quy tập thông qua hiện vật cá nhân
+Một bình nước thu hồi có khắc dòng chữ “Tuyến – 170071” trùng khớp với danh sách nhân sự trong sổ tay, qua đó trực tiếp liên kết hài cốt với cá nhân đã được ghi nhận trong hồ sơ.
+
+
+
+The case study of the 26 May 1972 battle at Cầu Nhi demonstrates clearly how CDEC materials support the identification and accounting of wartime dead while also situating the evidence within the larger historical context of the units involved. Division 308, one of the first mobile main-force divisions of the People’s Army of Vietnam, participated in major campaigns from the war against the French through the Vietnam War. Regiment 88 (E88) was a main-force regiment within this division, and Battalion 6 (D6) together with Company 9 (C9) were the units that directly engaged in the fierce battle at Cầu Nhi on 26 May 1972—a battle in which nearly one hundred soldiers were killed. It is within this context that the notebook of Political Officer Lê Thanh Hải (CDEC file F034609112435) becomes a critical source, verifying the presence of C9/D6/E88/F308 at Cầu Nhi on 25–26 May 1972 and matching official Vietnamese records of those killed in action.
+The notebook records the names of soldiers such as Nguyễn Viết Đàn and Hoàng Văn Rơi, corresponding to official casualty extracts and allowing investigators to link specific individuals to the battle and its losses. Notably, the notebook was captured at grid coordinate YD465370, providing an exact point of enemy contact and unit movement immediately before the fighting, thereby narrowing the search area for where soldiers likely fell or were hastily buried. Material evidence unearthed decades later further reinforces the value of the CDEC documentation: among the remains recovered in 2024–2025 was a canteen engraved “Tuyến – 170071,” matching entry #67 in the notebook and directly tying the artifact to a documented soldier.
+The discoveries of remains in the 1990s, in 2024, and again in 2025—at locations consistent with the CDEC record—demonstrate that these documents function as a kind of “forensic map,” guiding recovery teams to authentic burial sites. When cross-referenced with unit histories, witness accounts, family testimonies, and excavation findings, the CDEC materials create a multilayered verification loop that strengthens identification efforts and contributes significantly to the broader mission of recovering, honoring, and reconciling the losses remaining from the war.
+
+CÁC QUÂN NHÂN VIỆT NAM TỬ TRẬN TẠI CẦU NHI NGÀY 26 THÁNG 5 NĂM 1972
+
+Tường thuật trận đánh của phía Việt Nam (Lịch sử Trung đoàn 88 – Sư đoàn 308)
+Các chiến sĩ Đại đội 9 / Tiểu đoàn 6 / Trung đoàn 88 / Sư đoàn 308 hy sinh ngày 26 tháng 5 năm 1972 (Nguyễn Viết Đàn & Hoàng Văn Rơi)
+This highlights Vietnamese documentation confirming casualties from C9/D6/E88/F308 during the 26 May 1972 battle at Cầu Nhi. The official history of Regiment 88 (Division 308) records the severe fighting and heavy losses suffered in the engagement, while Vietnamese casualty extracts specifically identify soldiers such as Nguyễn Viết Đàn and Hoàng Văn Rơi who were killed that day. Together, these sources provide authoritative Vietnamese confirmation of the units involved, the scale of losses, and the identities of individuals who fell in the battle—information essential for cross-referencing with CDEC materials and supporting wartime accounting efforts.
+
+SỔ GHI CHÉP NHÂN SỰ BỊ THU GIỮ LIÊN KẾT CÁC BINH SĨ VỚI CẦU NHI
+Tài liệu của Đại đội 9 / Tiểu đoàn 6 / Trung đoàn 88 / Sư đoàn 308 bị thu giữ ngày 25 tháng 5 năm 1972 tại tọa độ 48QYD465370
+This captured personnel notebook provides authoritative evidence linking C9/D6/E88/F308 soldiers to the Cầu Nhi battlefield. Seized at grid coordinate YD465370 on 25 May 1972, just one day before the battle, the notebook contains detailed rosters listing the names, roles, and unit affiliations of Vietnamese soldiers—including individuals confirmed killed on 26 May. Its precise capture location, proximity to the fighting, and internal consistency with Vietnamese casualty records make it one of the most important CDEC documents for verifying unit presence, reconstructing battlefield events, and identifying those who fell at Cầu Nhi.
+
+ĐỐI CHIẾU VỚI BẢN ĐỒ QUÂN SỰ HOA KỲ
+Khu vực Cầu Nhi trên bản đồ quân sự Hoa Kỳ (Hệ tọa độ WGS84: 16.61000310B, 107.31687243Đ)
+ Google Maps (2025)48QYD465370 [16.60247°, 107.31044°]
+By aligning historical U.S. military maps with modern satellite imagery, we can confirm the precise geography of the Cầu Nhi battlefield and validate the capture coordinates recorded in CDEC documents. The WGS84 location of Cầu Nhi on U.S. maps corresponds closely with the modern Google Maps position for grid 48Q YD465370, reinforcing the accuracy of both sources. This cross-mapping provides a reliable geospatial foundation for identifying potential burial areas, guiding field investigations, and linking documentary evidence to real-world terrain.
+
+KHAI QUẬT & QUY TẬP HÀI CỐT TẠI CHIẾN TRƯỜNG CẦU NHI
+“170071”
+“Tuyến”
+Recent recoveries at the Cầu Nhi battlefield strongly confirm the accuracy of CDEC records. Excavations between the 1990s and 2025 uncovered multiple sets of remains along with personal artifacts—including a canteen engraved “Tuyến”  and the military personnel (ID) number “170071”—that directly match entries in the captured personnel notebook of C9/D6/E88/F308. This alignment between documentary evidence and physical findings not only verifies the presence and losses of specific soldiers at Cầu Nhi but also demonstrates how CDEC materials guide successful field recovery efforts and contribute to identifying long-missing Vietnamese war dead. This illustrates how the CDEC corpus provides essential, reliable evidence for Vietnamese agencies responsible for forensic verification and the official recognition of martyrs.
+
+Đồng Chủ nhiệm Dự án (Co-Principal Investigator): Dr. Alex-Thái Đình Võ
+Nhóm Nghiên cứu & Phân tích Lịch sử (6)
+Kỹ thuật viên Phân tích Tài liệu, Hình ảnh & Bản đồ Không gian – Chuyên gia AI/LLM (1
+Giảng viên Đại học Việt Nam – Trưởng nhóm Dự án Nghiên cứu (2–3)
+Phụ trách: Chuyên viên Nghiên cứu Sinh viên (18) (Vietnamese University Faculty Research Project Leaders overseeing Student Research Specialists)
+(Đại học Khoa học Xã hội & Nhân văn Hà Nội, Đại học Huế, Đại học Fulbright Việt Nam)
+Chuyên viên Lịch sử Truyền khẩu (3-4)
+Điều phối viên Gắn kết Cộng đồng & Gia đình (2)
+Điều phối viên Truyền thông Số & Truyền thông Công chúng (1)
+Biên soạn & Biên tập Báo cáo Điều tra (4)
+Kiểm soát Chất lượng: Chuyên gia Lịch sử Quân sự & GIS (2)
+BÁO CÁO
+U.S.
+VIETNAM
+TTU-VWAIDr. Steve Maxner, Dr. Ron Milam, Dr. Alex-Thái Đình Võ
+CƠ CẤU TỔ CHỨC & QUY TRÌNH CÔNG TÁC NGHIÊN CỨU CỦA TTU-VWAI 
+TTLTQG HK (NARA) & Đại Học Maryland
+TVQHHK (Library of Congress) & DPAA
+This diagram shows how the VWAI project brings together a coordinated, binational research network to account for Vietnamese war dead. Under the leadership of the TTU–VWAI senior team and the Principal Investigator, U.S.-based researchers conduct historical analysis, oral history work, GIS verification, public communication, and investigative reporting. These efforts are integrated with the work of document restoration specialists, Vietnamese university research leaders, and a large team of archival transcription and translation experts from institutions such as USSH Hanoi, Huế University, and Fulbright Vietnam. The project also draws on U.S. archival partners—including NARA, the University of Maryland, the Library of Congress, and DPAA—to retrieve and interpret critical documents. All research outputs feed into final reports that move through the U.S. Department of Defense and ultimately to Vietnam’s NSC 515, ensuring that findings support joint humanitarian accounting and reconciliation efforts.
+
+TTU-VWAIĐỒNG CHỦ NHIỆM DỰ ÁN
+
+
+Ts. Stephen MaxnerGiám đốc VNCA
+Ts. Ron MilamGiám đốc  IPAC
+Ts. Alex-Thái Đình VõVNCA
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+NHÓM NGHIÊN CỨU & PHÂN TÍCH LỊCH SỬ
+Ls. Tạ Thu Phong
+Ts. Phạm Hồng Hà
+Lê Đức Anh
+Trần Nguyễn Phương Thảo
+Trần Công Đại
+Ts. Hoàng Cẩm Thanh
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+ĐIỀU PHỐI VIÊN GẮN KẾT CỘNG ĐỒNG & GIA ĐÌNH
+	
+
+
+
+
+Nguyễn Thị Thanh Thủy
+ĐT Đặng Vương Hưng
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+CHUYÊN VIÊN LỊCH SỬ TRUYỀN KHẨU 
+ThS. Nguyễn Thùy Linh
+Nguyễn Thị Thanh Thủy
+Đặng Hoàng Hải
+Lam Nguyễn
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+ĐIỀU PHỐI VIÊN TRUYỀN THÔNG SỐ & TRUYỀN THÔNG CÔNG CHÚNG
+	
+
+
+
+
+Nguyễn Nhật Thủy Tiên
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+KỸ THUẬT VIÊN PHÂN TÍCH TÀI LIỆU, HÌNH ẢNH & BẢN ĐỒ KHÔNG GIAN – CHUYÊN GIA AI/LLM
+	
+
+
+
+
+ThS. Lê Quang Tuệ
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+KIỂM SOÁT CHẤT LƯỢNG: CHUYÊN GIA LỊCH SỬ QUÂN SỰ & GIS
+
+	
+
+
+
+
+Lâm Hồng Tiên
+Nguyễn Xuân Thắng
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+BIÊN SOẠN & BIÊN TẬP BÁO CÁO ĐIỀU TRA
+Nguyễn Thị Kim Hoa
+ThS. Trang Bùi
+Lam Nguyễn
+Phó Đỗ Quyên
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+GIẢNG VIÊN ĐẠI HỌC VIỆT NAM – TRƯỞNG NHÓM DỰ ÁN NGHIÊN CỨU (ĐẠI HỌC FULBRIGHT VIỆT NAM)
+Ts. Nguyễn Thành Trung
+Ts. Vũ Minh Hoàng
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+GIẢNG VIÊN ĐẠI HỌC VIỆT NAM – TRƯỞNG NHÓM DỰ ÁN NGHIÊN CỨU (ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN, HÀ NỘI)
+Ts. Nguyễn Hữu Mạnh
+Ts. Nguyễn Hồng Duy
+ThS. Lương Ngọc Vinh
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+NARA - TTLTQG HK
+Ts. Erik Villard
+For the VWAI project to succeed as a credible, binational humanitarian effort, strong and sustained support from Vietnamese government institutions is essential. Only Vietnam can provide the authoritative lists of war dead and missing, the unit-level and provincial records, and the historical data necessary to verify identities and reconstruct battlefield events. Access to maps of known and suspected burial sites, along with permission to conduct site assessments and field investigations, depends entirely on cooperation from central and local authorities. Likewise, the ability of VWAI researchers to consult national, provincial, and military archives—and to retrieve personnel files, battle reports, and administrative records—requires formal approval and coordinated assistance through the Ministry of Foreign Affairs and NSC 515. These agencies are also indispensable in facilitating interviews with veterans and witnesses, validating CDEC-derived data, and ensuring that findings are incorporated into Vietnam’s national wartime accounting system. In short, meaningful progress toward identifying and honoring Vietnam’s missing can only be achieved through close partnership: a collaborative framework in which U.S. and Vietnamese researchers work side by side, supported by the full engagement of Vietnamese ministries, archives, universities, and local governments.ROLE OF VIETNAMESE INSTITUTIONS & AGENCIES IN SUPPORT OF VWAI
+Share Official Lists of War Dead and Missing
+Provide comprehensive and updated rosters of individuals still unaccounted for, as well as those already identified or repatriated.
+Supply unit-level and provincial-level records to support cross-verification.
+Provide Access to Information on Burial and Battlefield Sites
+Share maps and records of known, suspected, or previously excavated gravesites—both examined and unexamined.
+Facilitate ground access for research verification, site assessments, and potential forensic collaboration.
+Support Open Access to Archives and Libraries (Central & Local)
+Grant VWAI and partner Vietnamese researchers access to federal, provincial, and military archives.
+Support retrieval of personnel files, battle reports, regional military records, and civilian administrative documents.
+Coordinate Through Ministry of Foreign Affairs & Embassy Channels
+Facilitate diplomatic coordination, document sharing, official permissions, and communication across Vietnamese agencies.
+Serve as liaison for sensitive information exchanges and cross-border research collaboration.
+Enable NSC 515 Oversight and Data Integration
+Work closely with VWAI to integrate findings into Vietnam’s national wartime accounting system.
+Ensure identification results, documentary evidence, and site analyses are incorporated into national databases.
+Facilitate Access to Veterans and Local Witnesses
+Connect VWAI researchers with former soldiers, militia members, cadres, and civilians who witnessed battles or burials.
+Help organize structured interviews that can corroborate archival and CDEC evidence.
+Support Document Sharing and Artifact Verification
+Assist in the review and confirmation of CDEC-derived personnel lists, battle data, and captured materials.
+Validate archival findings with Vietnamese counterparts to improve accuracy of identification.
+Strengthen Coordination with Vietnamese Universities and Research Partners
+Empower academic units such as USSH Hanoi and Fulbright Vietnam to collaborate fully with the VWAI project.
+Facilitate joint workshops, archival projects, and translation/transcription initiatives.
+Ensure Local-Level Government Cooperation
+Mobilize provincial, district, and commune officials to assist with site access, interviews, and information sharing.
+Provide logistical and administrative support during fieldwork and excavation-related research.
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+https://cdec.vietnam.ttu.edu
+“Bạn mới đến đây? Đăng ký ngay!”
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+Từ khóa: “loc ninh”Số hồ sơ liên quan
+Tên hồ sơ và các thông tin khái quát về hồ sơ
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+Số hồ sơ CDEC
+Tên hồ sơ
+Log #/Số nhật ký tài liệu
+CDEC (Combined Document Exploitation Center) là Trung tâm Khai thác Tài liệu Thu giữ Hỗn hợp của quân đội Hoa Kỳ trong Chiến tranh Việt Nam.CDEC Item Number (Số hiệu CDEC) là mã định danh gán cho mỗi tài liệu hoặc mỗi tập tài liệu. Ví dụ: CDEC F034609112435.
+Log Number (Số nhật ký quân sự) trong hồ sơ CDEC là số đăng ký hành chính – tình báo được gán cho tài liệu tại thời điểm được thu giữ, tiếp nhận và ghi nhận vào sổ của hệ thống tình báo quân đội Hoa Kỳ trong chiến tranh. Khác với CDEC Item Number (mã lưu trữ cố định sau xử lý), Log Number phản ánh thời điểm và bối cảnh tài liệu bước vào hệ thống tình báo.	- Log Number 86-6967-67 có nghĩa là: “Đây là tài liệu hoặc hiện vật thứ 6.967 được ghi nhận (đăng ký) trong năm 1967 bởi đơn vị hoặc bộ phận tình báo mang mã số ‘86’.”
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+Để mở bản pdf
+Để mở trang thông tin tổng quát
+Đê nhập thông tin về hồ sơ
+Để nhập thông tin liên qua
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+Các thông tin cơ bản về hồ sơ như số trang, ngày thu giữ, tọa độ của
+Tọa độ
+
+TIẾP CẬN VÀ TRUY CẬP CDEC
+Tọa độ
+
+Về TỌA ĐỘ
+Trong Chiến tranh Việt Nam, hệ tọa độ chính được Quân đội Hoa Kỳ và Quân lực Việt Nam Cộng hòa (ARVN/RVN) sử dụng là hệ UTM (Universal Transverse Mercator), dựa trên các datum và múi chiếu (grid zone) khác nhau, đồng thời trong một số bối cảnh phía Việt Nam Cộng hòa còn sử dụng bổ trợ các hệ lưới địa hình thời Pháp thuộc Đông Dương. Hệ UTM là hệ thống chuẩn được áp dụng rộng rãi cho bản đồ quân sự, tác chiến và trinh sát, và được sử dụng thống nhất bởi Quân đội Hoa Kỳ, Quân lực VNCH, cũng như các lực lượng đồng minh như Hàn Quốc (ROK), Úc và các đơn vị đồng minh khác. Tọa độ UTM thường được thể hiện dưới dạng mã lưới (grid reference) như “48P XT 123456 654321” hoặc theo định dạng múi chiếu và trị số Easting/Northing (ví dụ: UTM Zone 48N), cho phép xác định vị trí chính xác của đơn vị, trận địa, điểm giao tranh, khu vực thu giữ tài liệu, nơi chôn cất tạm thời và các vị trí chiến thuật khác trên chiến trường.
+Việt Nam nằm trên hai múi chiếu UTM chính là Zone 48N và Zone 49N, đây là chi tiết kỹ thuật quan trọng trong việc đọc, chuyển đổi và phân tích tọa độ thời chiến. Cụ thể, các khu vực miền Trung và phía tây Việt Nam (như Quảng Trị, Huế, Khe Sanh, Trường Sơn) chủ yếu thuộc UTM Zone 48N, trong khi miền Đông và Nam Việt Nam (bao gồm Sài Gòn, Đồng bằng sông Cửu Long, và phần phía đông Tây Nguyên) thuộc UTM Zone 49N. Việc xác định đúng múi chiếu là yếu tố sống còn trong công tác định vị địa lý, bởi nếu một tọa độ thuộc Zone 48N bị nhập nhầm sang Zone 49N (hoặc ngược lại), vị trí sẽ lệch khoảng 500 km, dẫn đến sai lệch nghiêm trọng trong việc xác định địa điểm giao tranh, nơi thu giữ tài liệu, khu mộ trận, hoặc vị trí chôn cất. Đây cũng là một trong những lỗi phổ biến nhất trong chuyển đổi GIS hiện đại khi xử lý tài liệu chiến tranh, đặc biệt đối với các hồ sơ CDEC, nhật ký hành quân, và báo cáo tác chiến thời kỳ Chiến tranh Việt Nam.
+Trong công tác xử lý tọa độ thời chiến, hệ quy chiếu bản đồ (datum) là yếu tố mang tính quyết định nhưng thường bị bỏ sót, trong khi thực tế một tọa độ hoàn toàn vô nghĩa nếu không xác định đúng datum đi kèm. Trong Chiến tranh Việt Nam, Indian Datum 1960 là hệ quy chiếu chủ đạo được sử dụng trên hầu hết bản đồ quân sự của Quân đội Hoa Kỳ và Quân lực Việt Nam Cộng hòa (ARVN). Vì vậy, phần lớn tọa độ xuất hiện trong tài liệu chiến tranh – bao gồm CDEC, nhật ký hành quân, báo cáo tác chiến, và hồ sơ chôn cất – đều ở dạng UTM Zone 48N hoặc 49N trên nền Indian 1960 datum. Việc hiểu và nhận diện đúng hệ quy chiếu này có ý nghĩa sống còn đối với công tác chuyển đổi sang hệ tọa độ hiện đại (WGS84), bởi nếu nhập sai datum, vị trí có thể lệch hàng trăm mét đến hàng cây số, dẫn đến sai lệch nghiêm trọng trong việc xác định bãi chiến trường, khu mộ tập thể, điểm thu giữ tài liệu hoặc vị trí hy sinh. Đối với VWAI, đây là nguyên tắc kỹ thuật cốt lõi cần được chuẩn hóa trong toàn bộ quy trình phân tích GIS, nhằm bảo đảm tính chính xác, tin cậy và giá trị thực tiễn của mọi kết luận không gian phục vụ công tác quy tập, nhận dạng và hồi hương hài cốt liệt sĩ.
+
+Về TỌA ĐỘ
+Trong bối cảnh Việt Nam, Indian Datum 1960 và WGS84 là hai hệ quy chiếu hoàn toàn khác nhau, và việc nhầm lẫn giữa chúng là nguyên nhân phổ biến dẫn đến sai lệch nghiêm trọng trong xác định bãi chiến trường, mộ hay khu mộ tập thể và điểm hy sinh. Indian 1960 là datum chuẩn của hầu hết bản đồ quân sự Hoa Kỳ và VNCH trong Chiến tranh Việt Nam, vì vậy đa số tọa độ trong CDEC, nhật ký hành quân và báo cáo tác chiến đều thuộc UTM Zone 48N hoặc 49N trên nền Indian 1960. Trong khi đó, WGS84 là hệ quy chiếu toàn cầu hiện đại dùng cho GPS và bản đồ số ngày nay. Nếu nhập trực tiếp tọa độ Indian 1960 vào WGS84 mà không chuyển đổi, vị trí có thể lệch 200–500 mét hoặc hơn, đủ để đưa đội tìm kiếm sang sai khu vực. Do đó, đối với VWAI, xác định đúng datum, đúng zone và chuyển đổi kỹ thuật chính xác sang WGS84 là yêu cầu bắt buộc để bảo đảm mọi phân tích GIS và khoanh vùng tìm kiếm có giá trị thực địa và phục vụ đúng mục tiêu nhân đạo.Trong công tác MIA/KIA và quy tập hài cốt, Indian 1960 là hệ quy chiếu gốc của chiến tranh, còn WGS84 là hệ quy chiếu của hiện tại. Mọi tọa độ trong CDEC, nhật ký, báo cáo tác chiến nếu không được chuyển đổi đúng từ Indian 1960 sang WGS84 sẽ dẫn đến sai lệch không gian nghiêm trọng, có thể khiến toàn bộ hoạt động tìm kiếm đi sai hướng. Vì vậy, xác định đúng datum – đúng zone – đúng phép chuyển đổi là yêu cầu bắt buộc, không phải tùy chọn.Các trang mạng có thể dùng để chuyển đổi tọa độ:
+https://leware.net/index.html 
+https://leware.net/geo/datumTransform.html
+https://legallandconverter.com/p50.html https://legallandconverter.com/images/world-mgrs-grid.jpg 
+https://mappingsupport.com/p2/gissurfer.php?center=14SQH05239974&zoom=4&basemap=USA_basemap 
+
+
+Về TỌA ĐỘ
+Cấu trúc đầy đủ của một tọa độ UTM bao gồm:
+Số hiệu khu (zone) → 48 hoặc 49
+Chữ cái dải vĩ độ (latitude band) → P, Q, R, v.v.
+Cặp chữ ô lưới (grid square letters) → ví dụ: YD, XT
+Số Easting/Northing (tọa độ Đông – Bắc)
+Ví dụ: 48Q YD 465370 = Zone 48, Dải vĩ độ Q, Ô lưới YD, Tọa độ Easting/Northing 465370
+Cụ thể tại Việt Nam:
+Miền Nam, Đồng bằng sông Cửu Long, Sài Gòn → chủ yếu P
+Miền Trung (Quảng Trị, Huế, Quảng Nam) → vùng chuyển tiếp P → Q
+Miền Bắc (Hà Nội, Thái Nguyên, Cao Bằng) → chủ yếu Q
+Vì sao điều này đặc biệt quan trọng trong công tác quy tập?
+Nếu nhầm lẫn:
+48P và 49P → sai lệch khoảng ~500 km
+Indian 1960 và WGS84 → sai lệch 200–500 mét
+Bỏ qua dải vĩ độ (P, Q) → có thể đảo sai trục Bắc–Nam (northing)
+
+BẢN THỐNG KÊ TÀI LIỆU CDEC TỪ KHÓA “LỘC NINH”
+
+BIỂU MẪU BÁO CÁO TIÊU CHUẨN
+
+GOOGLE DRIVE
+
+THỎA THUẬN VỀ BẢO MẬT, QUYỀN SỞ HỮUVÀ PHẠM VI SỬ DỤNG – VWAI
+
+
+
+
+Cảm Ơn!
